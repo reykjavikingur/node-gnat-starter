@@ -1,0 +1,30 @@
+{
+  "name": "gnat-starter",
+  "version": "1.0.0",
+  "description": "Starter project for a Gnat starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gnat-starter": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reykjavikingur/node-gnat-starter.git"
+  },
+  "keywords": [
+    "gnat",
+    "starter",
+    "project"
+  ],
+  "author": "Andrew Strader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reykjavikingur/node-gnat-starter/issues"
+  },
+  "homepage": "https://github.com/reykjavikingur/node-gnat-starter#readme",
+  "dependencies": {
+    "gnat": "^1.0.0"
+  }
+}
